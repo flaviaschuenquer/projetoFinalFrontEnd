@@ -21,7 +21,7 @@ ul {
   list-style: none;
   padding: 0%;
   display: flex;
-  gap: 15rem;
+  gap: 0.1rem;
   justify-content: center;
   align-items: center;
 }
